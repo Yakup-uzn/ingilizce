@@ -101,3 +101,22 @@
 |       98 | experience         | deneyim               | ekspiryens        |
 |       99 | enough             | yeterince             | inaf              |
 |      100 | cousin             | kuzen                 | kazın             |
+|      101 | in                 | içinde                | in                |
+|      102 | on                 | üzerinde              | on                |
+|      103 | at                 | -de, -da              | et                |
+|      104 | by                 | yanında, tarafından   | bay               |
+|      105 | with               | ile, birlikte         | vith              |
+|      106 | about              | hakkında              | ıbaut             |
+|      107 | for                | için                  | for               |
+|      108 | from               | -den, -dan            | from              |
+|      109 | to                 | -e, -a                | tu                |
+|      110 | into               | içine                 | intu              |
+|      111 | under              | altında               | andır             |
+|      112 | over               | üzerinde, üzerinden   | ovır              |
+|      113 | between            | arasında              | bitvîn            |
+|      114 | among              | arasında (birçok)     | among             |
+|      115 | without            | olmadan               | vithaut           |
+|      116 | next to            | bitişiğinde, yanında  | nekst tu          |
+|      117 | behind             | arkasında             | bihaynd           |
+|      118 | near               | yakınında             | nir               |
+
